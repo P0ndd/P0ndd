@@ -34,7 +34,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #ddd; /* กำหนดเส้นขอบของตาราง */
+    border: 1px solid #000000; /* กำหนดเส้นขอบของตาราง */
 }
 
 th, td {
